@@ -1,0 +1,12 @@
+# Secrets: never commit
+.env
+
+# Collected and generated data: stays local
+data/
+
+# Power BI file (contains the full match table)
+*.pbix
+
+# Python and Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
