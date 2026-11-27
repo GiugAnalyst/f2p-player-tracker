@@ -1,0 +1,11 @@
+# Data collection
+requests>=2.31
+python-dotenv>=1.0
+
+# Analysis notebooks
+pandas>=2.3
+numpy>=2.3
+matplotlib>=3.8
+scikit-learn>=1.4
+statsmodels>=0.14
+jupyter
