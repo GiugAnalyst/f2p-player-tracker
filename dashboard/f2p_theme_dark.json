@@ -1,0 +1,48 @@
+{
+  "name": "F2P Analytics Dark",
+  "dataColors": [
+    "#4FC3F7",
+    "#FF6B6B",
+    "#8E93B5",
+    "#2DD4BF",
+    "#F4A261",
+    "#3B82F6",
+    "#A78BFA",
+    "#FACC15"
+  ],
+  "foreground": "#E8E9F3",
+  "foregroundNeutralSecondary": "#A9ADC9",
+  "foregroundNeutralTertiary": "#7C80A3",
+  "background": "#2E3250",
+  "backgroundLight": "#3B3F5E",
+  "backgroundNeutral": "#4A4F73",
+  "tableAccent": "#4FC3F7",
+  "hyperlink": "#4FC3F7",
+  "good": "#4FC3F7",
+  "neutral": "#8E93B5",
+  "bad": "#FF6B6B",
+  "maximum": "#4FC3F7",
+  "center": "#2E3250",
+  "minimum": "#FF6B6B",
+  "textClasses": {
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#FFFFFF" },
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#FFFFFF" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#FFFFFF" },
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#A9ADC9" }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [ { "color": { "solid": { "color": "#3B3F5E" } }, "transparency": 0 } ],
+        "outspace":   [ { "color": { "solid": { "color": "#3B3F5E" } }, "transparency": 0 } ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [ { "show": true, "color": { "solid": { "color": "#2E3250" } }, "transparency": 0 } ],
+        "border": [ { "show": true, "color": { "solid": { "color": "#4A4F73" } }, "radius": 10 } ],
+        "title": [ { "fontColor": { "solid": { "color": "#FFFFFF" } } } ]
+      }
+    }
+  }
+}
