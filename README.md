@@ -1,3 +1,5 @@
+**[View the interactive Power BI report](https://app.powerbi.com/view?r=eyJrIjoiM2ZjZmVjZmYtNzFiMS00NGI0LTk3YTktMzVkNmM1NmU1ZjU5IiwidCI6Ijg0MDAyOWEzLTc5ZmYtNDBmZS1hZGYyLTk4MTZmY2JmYzc2NyIsImMiOjh9)**
+
 # Free-to-play analytics: Palia and Dota 2
 
 A portfolio project on free-to-play (F2P) game analytics: **retention, churn, monetization,
